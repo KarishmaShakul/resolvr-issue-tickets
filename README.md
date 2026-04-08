@@ -12,7 +12,7 @@
 
 **An AI-powered internal issue ticketing system for colleges, startups, and enterprises.**
 
-[▶️ Watch Demo](https://youtu.be/Kt_ibv_7n1k) · [🐛 Report Bug](https://github.com/KarishmaShakul/project-weaver/issues) · [✨ Request Feature](https://github.com/KarishmaShakul/project-weaver/issues)
+[▶️ Watch Demo](https://youtu.be/wkUszsJvs9I) · [🐛 Report Bug](https://github.com/KarishmaShakul/project-weaver/issues) · [✨ Request Feature](https://github.com/KarishmaShakul/project-weaver/issues)
 
 </div>
 
