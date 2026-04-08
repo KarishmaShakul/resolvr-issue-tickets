@@ -12,7 +12,7 @@
 
 **An AI-powered internal issue ticketing system for colleges, startups, and enterprises.**
 
-[🐛 Report Bug](https://github.com/KarishmaShakul/project-weaver/issues) · [✨ Request Feature](https://github.com/KarishmaShakul/project-weaver/issues)
+[▶️ Watch Demo](https://youtu.be/Kt_ibv_7n1k) · [🐛 Report Bug](https://github.com/KarishmaShakul/project-weaver/issues) · [✨ Request Feature](https://github.com/KarishmaShakul/project-weaver/issues)
 
 </div>
 
@@ -21,6 +21,7 @@
 ## 📋 Table of Contents
 
 - [About](#-about)
+- [Demo](#-demo)
 - [AI Features](#-ai-features)
 - [Features](#-features)
 - [Tech Stack](#-tech-stack)
@@ -39,6 +40,16 @@
 **Resolvr** is an AI-powered internal issue ticketing system designed to streamline issue reporting and resolution workflows for organizations such as colleges, startups, and enterprises.
 
 Users (employees or students) can create and track tickets while admins (IT/support staff) can view, assign, and resolve them through a centralized dashboard — all enhanced with intelligent AI assistance powered by OpenAI.
+
+---
+
+## 🎬 Demo
+
+> Watch the full demo on YouTube:
+
+[![Resolvr Demo](https://img.youtube.com/vi/Kt_ibv_7n1k/maxresdefault.jpg)](https://youtu.be/Kt_ibv_7n1k)
+
+▶️ [https://youtu.be/Kt_ibv_7n1k](https://youtu.be/Kt_ibv_7n1k)
 
 ---
 
